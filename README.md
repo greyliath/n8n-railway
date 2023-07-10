@@ -1,6 +1,6 @@
-# n8n example
+# n8n template
 
-This example deploys a self-hosted version of [n8n](https://n8n.io/). Internally it uses a PostgreSQL database to store the data.
+This template deploys a self-hosted version of [n8n](https://n8n.io/). Internally it uses a PostgreSQL database to store the data.
 
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/template/r2SNX_?referralCode=fKo7dw)
 
@@ -17,5 +17,5 @@ This example deploys a self-hosted version of [n8n](https://n8n.io/). Internally
 
 ## 📝 Notes
 
-- Source repo: https://github.com/n8n-io/n8n
+- Source image: https://hub.docker.com/r/n8nio/n8n
 - Docs: https://docs.n8n.io/
